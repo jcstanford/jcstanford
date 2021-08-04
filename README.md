@@ -2,8 +2,7 @@
 
 
 - 🔭  I’m currently working on becoming a Software Developer
-- 🌱  I’m currently learning about Python and API's as I start a new job as
-     a Training Coordinator for an education company.
+- 🌱  I’m currently learning about Python and API's.
 - 👯  I’m looking to collaborate on something fun and useful!
 <!-- - 🤔 I’m looking for help with -->
 - ⚡  Fun fact: I can do a cartwheel, but not a good one.
