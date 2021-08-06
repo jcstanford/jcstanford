@@ -2,7 +2,7 @@
 
 
 - 🔭  I’m currently working on becoming a Software Developer
-- 🌱  I’m currently learning about Python and API's.
+- 🌱  I’m currently undergoing the #100daysOfCode challenge
 - 👯  I’m looking to collaborate on something fun and useful!
 <!-- - 🤔 I’m looking for help with -->
 - ⚡  Fun fact: I can do a cartwheel, but not a good one.
