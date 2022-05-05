@@ -1,8 +1,8 @@
 ### Hi, my name is Colin 👋
 
 
-- 🔭  I’m currently working on becoming a Software Developer
-- 🌱  I’m getting back into the coding scene after three months of a new job
+- 🔭  I’m currently working on becoming a Front End Web Developer
+- 🌱  I’m getting back into learning JavaScript after some time away
 - 👯  I’m looking to collaborate on something fun and useful!
 <!-- - 🤔 I’m looking for help with -->
 - ⚡  Fun fact: I can do a cartwheel, but not a good one.
