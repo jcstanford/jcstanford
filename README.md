@@ -2,7 +2,7 @@
 
 
 - 🔭  I’m a Software Engineer
-- 🌱  I’m getting back into learning JavaScript after some time away
+- 🌱  I’m getting back into FrontEnd development after some time away
 - 👯  I’m looking to collaborate on something fun and useful!
 <!-- - 🤔 I’m looking for help with
 - ⚡  Fun fact: I can do a cartwheel, but not a good one. -->
