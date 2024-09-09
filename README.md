@@ -1,7 +1,7 @@
 ### Hi, my name is Colin 👋
 
 
-- 🔭  I’m a Software Engineer
+- 🔭  I’m a Software Developer
 - 🌱  I’m getting back into FrontEnd development after some time away
 - 👯  I’m looking to collaborate on something fun and useful!
 <!-- - 🤔 I’m looking for help with
